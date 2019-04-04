@@ -1,0 +1,11 @@
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.csprojAssemblyReference.cache
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.csproj.CoreCompileInputs.cache
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.AssemblyInfoInputs.cache
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.AssemblyInfo.cs
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\bin\Debug\netcoreapp2.1\F-C.deps.json
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\bin\Debug\netcoreapp2.1\F-C.runtimeconfig.json
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\bin\Debug\netcoreapp2.1\F-C.runtimeconfig.dev.json
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\bin\Debug\netcoreapp2.1\F-C.dll
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\bin\Debug\netcoreapp2.1\F-C.pdb
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.dll
+C:\Users\45579480814\Desktop\Nova pasta\atv\F-C\obj\Debug\netcoreapp2.1\F-C.pdb
